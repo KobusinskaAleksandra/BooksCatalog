@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: books-catalog
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aleksandra
+Implementation-Vendor-Id: pl.coderslab
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/books-catalo
+ g/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
